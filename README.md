@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👨‍💻 **Mohammed Sowban S**
+# 👋 **Mohammed Sowban S**
 
-### *Data Scientist | Machine Learning Engineer | NLP Specialist*
+### *Data Scientist | Machine Learning Engineer | NLP | Data Analyst*
 
 <svg width="100%" height="300" viewBox="0 0 800 300" xmlns="http://www.w3.org/2000/svg" style="background: linear-gradient(135deg, #0a0e27 0%, #1a1f3a 100%); border-radius: 10px;">
   <defs>
@@ -39,12 +39,9 @@
         <animateTransform attributeName="transform" type="rotate" values="0 0 0; 360 0 0" dur="6s" repeatCount="indefinite"/>
       </rect>
       
-      <!-- Text -->
-      <text x="0" y="5" font-size="24" fill="white" text-anchor="middle" font-weight="bold" font-family="Arial">
-        <tspan>📊📈📉 AI</tspan>
-        <animate attributeName="opacity" values="1;0.5;1" dur="2s" repeatCount="indefinite"/>
-      </text>
-    </g>
+  <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=Data+Scientist;Machine+Learning+Engineer;Data+Analyst;NLP+Enthusiast;Transforming+Data+Into+Insights" alt="Typing SVG" />
+</p>
   </g>
   
   <!-- Animated Data Points -->
@@ -81,6 +78,9 @@
     <animate attributeName="opacity" values="0.5;1;0.5" dur="3s" repeatCount="indefinite"/>
   </text>
 </svg>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2J0d2xvY3Q1dDJ1cWxjOHJzbnR5OHJ4NnZ6MnRwbmE3a2U5MWd4aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l46Cy1rHbQ92uuLXa/giphy.gif" width="500">
+</p>
 
 ---
 
@@ -232,6 +232,21 @@ MACHINE LEARNING TOOLKIT:
 | **NLP Tools** | NLTK • TextBlob • spaCy |
 | **Deep Learning** | TensorFlow • Keras |
 | **Deployment** | Streamlit • Flask |
+
+## 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,tensorflow" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
+```
 
 ### 🔤 **NLP & Text Processing**
 
@@ -495,6 +510,12 @@ XGBoost • Random Forest • Scikit-learn • Pandas • NumPy
 
 </div>
 
+---
+## ** GitHub Statistics **
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohammedSowban&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedSowban&layout=compact&theme=tokyonight" />
+</p>
 ---
 
 ## 📱 **Connect With Me**
