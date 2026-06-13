@@ -170,11 +170,11 @@
 **Duration:** 4 months | **Status:** Currently Active ⭐
 
 #### Key Responsibilities:
-- 🔧 **Developed & Evaluated** 8+ ML models using Python & Scikit-learn
-- 📊 **Executed** complete data science pipelines (EDA → Feature Engineering → Deployment)
-- 📈 **Improved** model performance by **12%** through strategic feature optimization
-- 📋 **Prepared** comprehensive reports for stakeholder presentations
-- 🤝 **Collaborated** with senior data scientists on real-world case studies
+🔹 🔧 **Developed & Evaluated** 8+ ML models using Python & Scikit-learn  
+🔹 📊 **Executed** complete data science pipelines (EDA → Feature Engineering → Deployment)  
+🔹 📈 **Improved** model performance by **12%** through strategic feature optimization  
+🔹 📋 **Prepared** comprehensive reports for stakeholder presentations  
+🔹 🤝 **Collaborated** with senior data scientists on real-world case studies  
 
 </div>
 
@@ -294,9 +294,9 @@ NLP SPECIALIZATION:
 **Key Achievement:** ⭐⭐⭐⭐⭐ **85% User Satisfaction**
 
 #### 🎯 Objectives
-- ✅ Build intelligent recommendation engine using **TF-IDF** vectorization
-- ✅ Match user preferences with content similarity
-- ✅ Optimize computation through **vectorized operations**
+🔹 ✅ Build intelligent recommendation engine using **TF-IDF** vectorization  
+🔹 ✅ Match user preferences with content similarity  
+🔹 ✅ Optimize computation through **vectorized operations**  
 
 #### 📊 Results
 | Metric | Value |
@@ -333,23 +333,23 @@ Data Processing Pipeline:
 
 #### 📌 Sub-Projects
 
-**A) Spam Detection**
-- **Accuracy:** **92%** Precision
-- **Recall:** 89%
-- **Method:** Logistic Regression + TF-IDF
-- **Impact:** Effective email filtering
+**A) Spam Detection**  
+🔹 **Accuracy:** **92%** Precision  
+🔹 **Recall:** 89%  
+🔹 **Method:** Logistic Regression + TF-IDF  
+🔹 **Impact:** Effective email filtering  
 
-**B) Sentiment Analysis**
-- **Accuracy:** **87%** (10,000+ tweets)
-- **Classes:** Positive, Negative, Neutral
-- **Feature:** Word embeddings
-- **Application:** Social media monitoring
+**B) Sentiment Analysis**  
+🔹 **Accuracy:** **87%** (10,000+ tweets)  
+🔹 **Classes:** Positive, Negative, Neutral  
+🔹 **Feature:** Word embeddings  
+🔹 **Application:** Social media monitoring  
 
-**C) Movie Review Classification**
-- **F1-Score:** **90%**
-- **Challenge:** Class imbalance (handled with SMOTE)
-- **Metrics:** Precision, Recall, F1-Score
-- **Output:** Sentiment polarity
+**C) Movie Review Classification**  
+🔹 **F1-Score:** **90%**  
+🔹 **Challenge:** Class imbalance (handled with SMOTE)  
+🔹 **Metrics:** Precision, Recall, F1-Score  
+🔹 **Output:** Sentiment polarity  
 
 #### 🛠️ Technologies
 ```python
@@ -368,17 +368,17 @@ Python • Scikit-learn • NLTK • Pandas • Matplotlib • SMOTE
 
 #### 🎯 Disease Predictions
 
-**Heart Disease Prediction**
-- **Best Model:** XGBoost
-- **Accuracy:** **96%** 🏆
-- **Use Case:** Early detection & clinical support
-- **Impact:** Life-saving potential
+**Heart Disease Prediction**  
+🔹 **Best Model:** XGBoost  
+🔹 **Accuracy:** **96%** 🏆  
+🔹 **Use Case:** Early detection & clinical support  
+🔹 **Impact:** Life-saving potential  
 
-**Liver Disease Prediction**
-- **Best Model:** Random Forest
-- **Accuracy:** **75%**
-- **Features:** Engineered from medical data
-- **Output:** Risk stratification
+**Liver Disease Prediction**  
+🔹 **Best Model:** Random Forest  
+🔹 **Accuracy:** **75%**  
+🔹 **Features:** Engineered from medical data  
+🔹 **Output:** Risk stratification  
 
 #### 🔬 Methodology
 ```
@@ -439,9 +439,9 @@ XGBoost • Random Forest • Scikit-learn • Pandas • NumPy
 
 ### 📜 Professional Certifications
 
-- ✅ **Certified Data Scientist** (Gold Award) - FutureSkills Prime / NASSCOM
-- ✅ **Python for Data Science** - Simplilearn
-- 📚 Continuous learning through online courses and projects
+🔹 ✅ **Certified Data Scientist** (Gold Award) - FutureSkills Prime / NASSCOM  
+🔹 ✅ **Python for Data Science** - Simplilearn  
+🔹 📚 Continuous learning through online courses and projects  
 
 ---
 
@@ -511,7 +511,7 @@ XGBoost • Random Forest • Scikit-learn • Pandas • NumPy
 </div>
 
 ---
-## ** GitHub Statistics **
+## **GitHub Statistics**
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohammedSowban&show_icons=true&theme=tokyonight" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedSowban&layout=compact&theme=tokyonight" />
@@ -528,9 +528,9 @@ XGBoost • Random Forest • Scikit-learn • Pandas • NumPy
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedsowban220@gmail.com)
 
 ### 📧 **Direct Contact**
-- **Email:** mohammedsowban220@gmail.com
-- **Phone:** +91-709-2720-050
-- **Location:** Bangalore, Karnataka, India
+🔹 **Email:** mohammedsowban220@gmail.com  
+🔹 **Phone:** +91-709-2720-050  
+🔹 **Location:** Bangalore, Karnataka, India  
 
 </div>
 
@@ -556,19 +556,19 @@ XGBoost • Random Forest • Scikit-learn • Pandas • NumPy
 
 ## 🤝 **Let's Collaborate!**
 
-I'm always excited to:
-- 💼 Discuss **data science & ML** innovations
-- 🔄 **Collaborate** on interesting projects
-- 📚 **Share knowledge** and learn together
-- 🚀 **Explore** emerging technologies in AI/ML
+I'm always excited to:  
+🔹 💼 Discuss **data science & ML** innovations  
+🔹 🔄 **Collaborate** on interesting projects  
+🔹 📚 **Share knowledge** and learn together  
+🔹 🚀 **Explore** emerging technologies in AI/ML  
 
 <div align="center">
 
-### 📌 **Open To:**
-- 💼 Full-time Data Science roles
-- 🤝 Collaboration & partnerships
-- 📖 Mentorship opportunities
-- 🎓 Knowledge sharing sessions
+### 📌 **Open To:**  
+🔹 💼 Full-time Data Science roles  
+🔹 🤝 Collaboration & partnerships  
+🔹 📖 Mentorship opportunities  
+🔹 🎓 Knowledge sharing sessions  
 
 **Let's build something amazing together! 🌟**
 
